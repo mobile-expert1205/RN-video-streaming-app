@@ -1,1 +1,1 @@
-# RN-video-streaming-app
+# Karaok_RN_app
